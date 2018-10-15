@@ -9,7 +9,7 @@
 <div class="panel panel-bd lobidrag">
 <div class="panel-heading">
 <div class="panel-title">
-<h4>Bank List </h4>
+<h4>Bank List add  some thinh</h4>
 </div>
 </div>
 <div class="panel-body">
